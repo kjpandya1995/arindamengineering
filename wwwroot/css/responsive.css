@@ -1,10 +1,55 @@
 /*--------------------------------------------------------------
 # Global Sections
 --------------------------------------------------------------*/
+
+
+@media (max-width: 1600px) {
+      /* #mainmenu {
+        font-size: 18px;
+    }
+        #mainmenu>ul>li {
+        margin-left: 25px;
+    } */
+}
+
+
+
+/* @media (max-width: 1450px) {
+      #header {
+        padding: 14px 0 12px 0;
+    }
+        .header-box {
+        padding: 0 103px;
+    }
+        #logo {
+        width: 150px;
+    }
+    .header-top {
+        margin-bottom: 5px;
+    }
+        .header-contact {
+        font-size: 16px;
+        margin-right: 30px;
+    }
+    .header-contact a {
+        font-size: 12px;
+    }
+        .header-contact i {
+        margin-right: 4px;
+    }
+        #mainmenu {
+        font-size: 13px;
+        position: static;
+    }
+        #mainmenu>ul>li {
+        margin-left: 23px;
+    }
+} */
 @media (max-width: 1199px) {
 
   section,.section {scroll-margin-top: 60px; }
 }
+
 @media (max-width: 991px) {
  .hero-section h2 {font-size: 38px;}
 .slider-info-box {max-width: 350px;}

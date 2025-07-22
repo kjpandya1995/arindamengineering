@@ -25,40 +25,50 @@
   /**
    * Mobile nav toggle
    */
-  const mobileNavToggleBtn = document.querySelector('.mobile-nav-toggle');
+  // const mobileNavToggleBtn = document.querySelector('.mobile-nav-toggle');
 
-  function mobileNavToogle() {
-    document.querySelector('body').classList.toggle('mobile-nav-active');
-    mobileNavToggleBtn.classList.toggle('bi-list');
-    mobileNavToggleBtn.classList.toggle('bi-x');
-  }
-  if (mobileNavToggleBtn) {
-    mobileNavToggleBtn.addEventListener('click', mobileNavToogle);
-  }
+  // function mobileNavToogle() {
+  //   document.querySelector('body').classList.toggle('mobile-nav-active');
+  //   mobileNavToggleBtn.classList.toggle('bi-list');
+  //   mobileNavToggleBtn.classList.toggle('bi-x');
+  // }
+  // if (mobileNavToggleBtn) {
+  //   mobileNavToggleBtn.addEventListener('click', mobileNavToogle);
+  // }
 
   /**
    * Hide mobile nav on same-page/hash links
    */
-  document.querySelectorAll('#navmenu a').forEach(navmenu => {
-    navmenu.addEventListener('click', () => {
-      if (document.querySelector('.mobile-nav-active')) {
-        mobileNavToogle();
-      }
-    });
+  // document.querySelectorAll('#navmenu a').forEach(navmenu => {
+  //   navmenu.addEventListener('click', () => {
+  //     if (document.querySelector('.mobile-nav-active')) {
+  //       mobileNavToogle();
+  //     }
+  //   });
 
-  });
+  // });
 
   /**
    * Toggle mobile nav dropdowns
    */
-  document.querySelectorAll('.navmenu .toggle-dropdown').forEach(navmenu => {
-    navmenu.addEventListener('click', function(e) {
-      e.preventDefault();
-      this.parentNode.classList.toggle('active');
-      this.parentNode.nextElementSibling.classList.toggle('dropdown-active');
-      e.stopImmediatePropagation();
+  // document.querySelectorAll('.navmenu .toggle-dropdown').forEach(navmenu => {
+  //   navmenu.addEventListener('click', function(e) {
+  //     e.preventDefault();
+  //     this.parentNode.classList.toggle('active');
+  //     this.parentNode.nextElementSibling.classList.toggle('dropdown-active');
+  //     e.stopImmediatePropagation();
+  //   });
+  // });
+
+
+    const toggleButton = document.getElementById('mobile-toggle');
+    const navMenu = document.getElementById('nav-menu');
+
+    toggleButton.addEventListener('click', () => {
+        navMenu.classList.toggle('open');
     });
-  });
+
+
 
 
 /**
@@ -235,6 +245,10 @@ var heroSwiper  = new Swiper(".hero-section .swiper", {
   }
   window.addEventListener('load', aosInit);
 
+
+
+
+
   /**
    * Initiate glightbox
    */
@@ -319,7 +333,49 @@ var heroSwiper  = new Swiper(".hero-section .swiper", {
     }
   });
 
+  /*Mobile menu click
+		---------------------------------------------------------------------*/
+		// $(document).on('click',"#menu", function(){
+		// 	$(this).toggleClass('menuopen');
+		// 	$(this).next('ul').slideToggle('normal');
+		// 	return false;
+		// });
+		
 
+		// $("#mainmenu  > ul > li > .sub-menu").parent('li').addClass('hasnav');
+		// $("#mainmenu > ul > li.hasnav").prepend('<span class="navtrigger"></span>');
+
+		// $(".navtrigger").on('click',function () {
+		// 	if (screencheck(1023)) 
+		// 	{
+		// 		if($(this).parents("li.hasnav").find(".sub-menu").is(':hidden')){
+		// 			$(this).addClass('open');
+					
+		// 			$(this).parents("li.hasnav").find(".sub-menu").slideDown('normal');
+		// 		} else {
+		// 			$(this).removeClass('open');
+		// 			$(this).parents("li.hasnav").find(".sub-menu").slideUp('normal');
+		// 		}
+		// 		return false;
+		// 	}
+		// });
+
+
+		/* Header sticky 
+		---------------------------------------------------------------------*/
+
+  $(window).on('scroll', function() {
+			//var scrollbanner = $('.banner-section ').outerHeight();
+			if($(this).scrollTop() > 3 ) {
+                            $('#header').addClass('sticky');
+			}
+			/*else if($(this).scrollTop() > 50){
+				$('#header').removeClass('sticky').addClass('is-hidden');
+			}*/
+			else {
+                            $('#header').removeClass('sticky');
+			}
+		});
   
   /**
    * hero section

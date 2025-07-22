@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "37dArs/H3fqlFmZI7KrgkM/5+gqAN7a8QWZg5bxGwdY=",
+  "Hash": "Sy6MFcv3/MSdbTXCI4jMlJyS+wb1fOve035siSKjKzs=",
   "Source": "arindamengineering",
   "BasePath": "_content/arindamengineering",
   "Mode": "Default",
@@ -605,12 +605,12 @@
       "OriginalItemSpec": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "D:\\krishna-work\\work\\arindamengineering\\obj\\Debug\\net9.0\\compressed\\7f5avff3bp-zidbc2sev7.gz",
+      "Identity": "D:\\krishna-work\\work\\arindamengineering\\obj\\Debug\\net9.0\\compressed\\7f5avff3bp-79mrgqr57w.gz",
       "SourceId": "arindamengineering",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\krishna-work\\work\\arindamengineering\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/arindamengineering",
-      "RelativePath": "css/site#[.{fingerprint=zidbc2sev7}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=79mrgqr57w}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -619,8 +619,8 @@
       "RelatedAsset": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\css\\site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "n1uq909sz3",
-      "Integrity": "m1Nv8kivz7Uz+ZX1fYWjudyNCu02NAOGsSjbgc3Q1yQ=",
+      "Fingerprint": "ds19hf2pac",
+      "Integrity": "s+G5VF740aKoowybmHMa3FKL/lQ9C2AQ9sozH6UkFwY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\css\\site.css"
@@ -1088,12 +1088,12 @@
       "OriginalItemSpec": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "D:\\krishna-work\\work\\arindamengineering\\obj\\Debug\\net9.0\\compressed\\ckcipdd778-hlqelqdi63.gz",
+      "Identity": "D:\\krishna-work\\work\\arindamengineering\\obj\\Debug\\net9.0\\compressed\\ckcipdd778-asyijh0j09.gz",
       "SourceId": "arindamengineering",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\krishna-work\\work\\arindamengineering\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/arindamengineering",
-      "RelativePath": "css/responsive#[.{fingerprint=hlqelqdi63}]?.css.gz",
+      "RelativePath": "css/responsive#[.{fingerprint=asyijh0j09}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -1102,8 +1102,8 @@
       "RelatedAsset": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\css\\responsive.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "hsx1itbbh4",
-      "Integrity": "r0gZWvIf6tb+ixDIFM4Fzsnk2sWP8sEk/wkx3ber0ho=",
+      "Fingerprint": "ruhegmq92k",
+      "Integrity": "41moZ8EQblwKjh9NSLC0y9zrHd+RZrw0v1y5Bhx+oGs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\css\\responsive.css"
@@ -1235,12 +1235,12 @@
       "OriginalItemSpec": "D:\\krishna-work\\work\\arindamengineering\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\arindamengineering.bundle.scp.css"
     },
     {
-      "Identity": "D:\\krishna-work\\work\\arindamengineering\\obj\\Debug\\net9.0\\compressed\\e5qofmcn3c-xljpbgu0fn.gz",
+      "Identity": "D:\\krishna-work\\work\\arindamengineering\\obj\\Debug\\net9.0\\compressed\\e5qofmcn3c-7gzimx3ovz.gz",
       "SourceId": "arindamengineering",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\krishna-work\\work\\arindamengineering\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/arindamengineering",
-      "RelativePath": "css/main#[.{fingerprint=xljpbgu0fn}]?.css.gz",
+      "RelativePath": "css/main#[.{fingerprint=7gzimx3ovz}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -1249,8 +1249,8 @@
       "RelatedAsset": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\css\\main.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "hhu07odmex",
-      "Integrity": "q07d9ImEl3SxzwpUMrTT4ZW6aa40wEy9vjojredlxhA=",
+      "Fingerprint": "2jv310es9x",
+      "Integrity": "orw0TxM/ROOhWCqhV0p/a6kBt9c4RBmRLFX0B9K4Frs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\css\\main.css"
@@ -2243,12 +2243,12 @@
       "OriginalItemSpec": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\krishna-work\\work\\arindamengineering\\obj\\Debug\\net9.0\\compressed\\tv5suu50od-6o28m5kged.gz",
+      "Identity": "D:\\krishna-work\\work\\arindamengineering\\obj\\Debug\\net9.0\\compressed\\tv5suu50od-0hp6qfrxip.gz",
       "SourceId": "arindamengineering",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\krishna-work\\work\\arindamengineering\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/arindamengineering",
-      "RelativePath": "js/site#[.{fingerprint=6o28m5kged}]?.js.gz",
+      "RelativePath": "js/site#[.{fingerprint=0hp6qfrxip}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -2257,8 +2257,8 @@
       "RelatedAsset": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\js\\site.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "am6bs8rzyg",
-      "Integrity": "vt1J2jzuHpGLc4JKFM1qtRbkyKxVMRYMj2llhpkp8lc=",
+      "Fingerprint": "ineqjoky9k",
+      "Integrity": "UiA8fRcjR8+De0Qh0VbTUzSF82lcXne4xb0suKOK8bw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\js\\site.js"
@@ -2845,8 +2845,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "xljpbgu0fn",
-      "Integrity": "hTp142eJEgc0UT0cnz8RRjKDJqezHJ0IyEOcaT8xIsY=",
+      "Fingerprint": "7gzimx3ovz",
+      "Integrity": "CVLhxcghroe4eW/694LLAp1cDj1M3kG+gwVyFgBxtM0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\main.css"
@@ -2866,8 +2866,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "hlqelqdi63",
-      "Integrity": "21SA4Wew3yO9zKkpHi/rKkb212vZ7qeE2hZ2v8oScqE=",
+      "Fingerprint": "asyijh0j09",
+      "Integrity": "ZuhzuDPuI/aEJ9+LJBATKdopFXeuASLcOaSNT+haD5w=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\responsive.css"
@@ -2887,8 +2887,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "zidbc2sev7",
-      "Integrity": "Oy2JKu0M+ow9y6WCARtWc+DrWH8sdKP0mheNJde7I/0=",
+      "Fingerprint": "79mrgqr57w",
+      "Integrity": "la54+wRSOBeY5oLLUVthSz2CrIRXaVSjSHHT0l6UVYU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -4966,8 +4966,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "6o28m5kged",
-      "Integrity": "hgmCA5LFa8JM/Q3cCSRO9DgyePRyTpuRDnW/epruh4c=",
+      "Fingerprint": "0hp6qfrxip",
+      "Integrity": "jFN+C6VmTsjyb1tfO9d583HRsS70SSO+WrKVWR0hffI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
@@ -8259,13 +8259,13 @@
       ]
     },
     {
-      "Route": "css/main.css",
-      "AssetFile": "D:\\krishna-work\\work\\arindamengineering\\obj\\Debug\\net9.0\\compressed\\e5qofmcn3c-xljpbgu0fn.gz",
+      "Route": "css/main.7gzimx3ovz.css",
+      "AssetFile": "D:\\krishna-work\\work\\arindamengineering\\obj\\Debug\\net9.0\\compressed\\e5qofmcn3c-7gzimx3ovz.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000309693404"
+          "Quality": "0.000240905806"
         }
       ],
       "ResponseHeaders": [
@@ -8275,19 +8275,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3228"
+          "Value": "4150"
         },
         {
           "Name": "ETag",
-          "Value": "\"q07d9ImEl3SxzwpUMrTT4ZW6aa40wEy9vjojredlxhA=\""
+          "Value": "\"orw0TxM/ROOhWCqhV0p/a6kBt9c4RBmRLFX0B9K4Frs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 15 Jul 2025 06:11:10 GMT"
+          "Value": "Tue, 22 Jul 2025 17:56:06 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -8303,18 +8303,26 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"hTp142eJEgc0UT0cnz8RRjKDJqezHJ0IyEOcaT8xIsY=\""
+          "Value": "W/\"CVLhxcghroe4eW/694LLAp1cDj1M3kG+gwVyFgBxtM0=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "7gzimx3ovz"
+        },
+        {
+          "Name": "label",
+          "Value": "css/main.css"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-hTp142eJEgc0UT0cnz8RRjKDJqezHJ0IyEOcaT8xIsY="
+          "Value": "sha256-CVLhxcghroe4eW/694LLAp1cDj1M3kG+gwVyFgBxtM0="
         }
       ]
     },
     {
-      "Route": "css/main.css",
+      "Route": "css/main.7gzimx3ovz.css",
       "AssetFile": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\css\\main.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -8324,7 +8332,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12602"
+          "Value": "18353"
         },
         {
           "Name": "Content-Type",
@@ -8332,121 +8340,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"hTp142eJEgc0UT0cnz8RRjKDJqezHJ0IyEOcaT8xIsY=\""
+          "Value": "\"CVLhxcghroe4eW/694LLAp1cDj1M3kG+gwVyFgBxtM0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 15 Jul 2025 06:11:10 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-hTp142eJEgc0UT0cnz8RRjKDJqezHJ0IyEOcaT8xIsY="
-        }
-      ]
-    },
-    {
-      "Route": "css/main.css.gz",
-      "AssetFile": "D:\\krishna-work\\work\\arindamengineering\\obj\\Debug\\net9.0\\compressed\\e5qofmcn3c-xljpbgu0fn.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3228"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"q07d9ImEl3SxzwpUMrTT4ZW6aa40wEy9vjojredlxhA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 15 Jul 2025 06:11:10 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-q07d9ImEl3SxzwpUMrTT4ZW6aa40wEy9vjojredlxhA="
-        }
-      ]
-    },
-    {
-      "Route": "css/main.xljpbgu0fn.css",
-      "AssetFile": "D:\\krishna-work\\work\\arindamengineering\\obj\\Debug\\net9.0\\compressed\\e5qofmcn3c-xljpbgu0fn.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000309693404"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3228"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"q07d9ImEl3SxzwpUMrTT4ZW6aa40wEy9vjojredlxhA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 15 Jul 2025 06:11:10 GMT"
+          "Value": "Tue, 22 Jul 2025 17:56:06 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"hTp142eJEgc0UT0cnz8RRjKDJqezHJ0IyEOcaT8xIsY=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "xljpbgu0fn"
+          "Value": "7gzimx3ovz"
         },
         {
           "Name": "label",
@@ -8454,13 +8362,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-hTp142eJEgc0UT0cnz8RRjKDJqezHJ0IyEOcaT8xIsY="
+          "Value": "sha256-CVLhxcghroe4eW/694LLAp1cDj1M3kG+gwVyFgBxtM0="
         }
       ]
     },
     {
-      "Route": "css/main.xljpbgu0fn.css",
-      "AssetFile": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\css\\main.css",
+      "Route": "css/main.7gzimx3ovz.css.gz",
+      "AssetFile": "D:\\krishna-work\\work\\arindamengineering\\obj\\Debug\\net9.0\\compressed\\e5qofmcn3c-7gzimx3ovz.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8469,7 +8377,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12602"
+          "Value": "4150"
         },
         {
           "Name": "Content-Type",
@@ -8477,56 +8385,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"hTp142eJEgc0UT0cnz8RRjKDJqezHJ0IyEOcaT8xIsY=\""
+          "Value": "\"orw0TxM/ROOhWCqhV0p/a6kBt9c4RBmRLFX0B9K4Frs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 15 Jul 2025 06:11:10 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "xljpbgu0fn"
-        },
-        {
-          "Name": "label",
-          "Value": "css/main.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-hTp142eJEgc0UT0cnz8RRjKDJqezHJ0IyEOcaT8xIsY="
-        }
-      ]
-    },
-    {
-      "Route": "css/main.xljpbgu0fn.css.gz",
-      "AssetFile": "D:\\krishna-work\\work\\arindamengineering\\obj\\Debug\\net9.0\\compressed\\e5qofmcn3c-xljpbgu0fn.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3228"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"q07d9ImEl3SxzwpUMrTT4ZW6aa40wEy9vjojredlxhA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 15 Jul 2025 06:11:10 GMT"
+          "Value": "Tue, 22 Jul 2025 17:56:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8544,7 +8407,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "xljpbgu0fn"
+          "Value": "7gzimx3ovz"
         },
         {
           "Name": "label",
@@ -8552,18 +8415,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-q07d9ImEl3SxzwpUMrTT4ZW6aa40wEy9vjojredlxhA="
+          "Value": "sha256-orw0TxM/ROOhWCqhV0p/a6kBt9c4RBmRLFX0B9K4Frs="
         }
       ]
     },
     {
-      "Route": "css/responsive.css",
-      "AssetFile": "D:\\krishna-work\\work\\arindamengineering\\obj\\Debug\\net9.0\\compressed\\ckcipdd778-hlqelqdi63.gz",
+      "Route": "css/main.css",
+      "AssetFile": "D:\\krishna-work\\work\\arindamengineering\\obj\\Debug\\net9.0\\compressed\\e5qofmcn3c-7gzimx3ovz.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001212121212"
+          "Quality": "0.000240905806"
         }
       ],
       "ResponseHeaders": [
@@ -8573,15 +8436,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "824"
+          "Value": "4150"
         },
         {
           "Name": "ETag",
-          "Value": "\"r0gZWvIf6tb+ixDIFM4Fzsnk2sWP8sEk/wkx3ber0ho=\""
+          "Value": "\"orw0TxM/ROOhWCqhV0p/a6kBt9c4RBmRLFX0B9K4Frs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 15 Jul 2025 04:50:55 GMT"
+          "Value": "Tue, 22 Jul 2025 17:56:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8601,18 +8464,163 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"21SA4Wew3yO9zKkpHi/rKkb212vZ7qeE2hZ2v8oScqE=\""
+          "Value": "W/\"CVLhxcghroe4eW/694LLAp1cDj1M3kG+gwVyFgBxtM0=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-21SA4Wew3yO9zKkpHi/rKkb212vZ7qeE2hZ2v8oScqE="
+          "Value": "sha256-CVLhxcghroe4eW/694LLAp1cDj1M3kG+gwVyFgBxtM0="
         }
       ]
     },
     {
-      "Route": "css/responsive.css",
+      "Route": "css/main.css",
+      "AssetFile": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\css\\main.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18353"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CVLhxcghroe4eW/694LLAp1cDj1M3kG+gwVyFgBxtM0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Jul 2025 17:56:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CVLhxcghroe4eW/694LLAp1cDj1M3kG+gwVyFgBxtM0="
+        }
+      ]
+    },
+    {
+      "Route": "css/main.css.gz",
+      "AssetFile": "D:\\krishna-work\\work\\arindamengineering\\obj\\Debug\\net9.0\\compressed\\e5qofmcn3c-7gzimx3ovz.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4150"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"orw0TxM/ROOhWCqhV0p/a6kBt9c4RBmRLFX0B9K4Frs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Jul 2025 17:56:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-orw0TxM/ROOhWCqhV0p/a6kBt9c4RBmRLFX0B9K4Frs="
+        }
+      ]
+    },
+    {
+      "Route": "css/responsive.asyijh0j09.css",
+      "AssetFile": "D:\\krishna-work\\work\\arindamengineering\\obj\\Debug\\net9.0\\compressed\\ckcipdd778-asyijh0j09.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000982318271"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1017"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"41moZ8EQblwKjh9NSLC0y9zrHd+RZrw0v1y5Bhx+oGs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Jul 2025 17:48:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ZuhzuDPuI/aEJ9+LJBATKdopFXeuASLcOaSNT+haD5w=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "asyijh0j09"
+        },
+        {
+          "Name": "label",
+          "Value": "css/responsive.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZuhzuDPuI/aEJ9+LJBATKdopFXeuASLcOaSNT+haD5w="
+        }
+      ]
+    },
+    {
+      "Route": "css/responsive.asyijh0j09.css",
       "AssetFile": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\css\\responsive.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -8622,7 +8630,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2230"
+          "Value": "3099"
         },
         {
           "Name": "Content-Type",
@@ -8630,121 +8638,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"21SA4Wew3yO9zKkpHi/rKkb212vZ7qeE2hZ2v8oScqE=\""
+          "Value": "\"ZuhzuDPuI/aEJ9+LJBATKdopFXeuASLcOaSNT+haD5w=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 15 Jul 2025 04:50:55 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-21SA4Wew3yO9zKkpHi/rKkb212vZ7qeE2hZ2v8oScqE="
-        }
-      ]
-    },
-    {
-      "Route": "css/responsive.css.gz",
-      "AssetFile": "D:\\krishna-work\\work\\arindamengineering\\obj\\Debug\\net9.0\\compressed\\ckcipdd778-hlqelqdi63.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "824"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"r0gZWvIf6tb+ixDIFM4Fzsnk2sWP8sEk/wkx3ber0ho=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 15 Jul 2025 04:50:55 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-r0gZWvIf6tb+ixDIFM4Fzsnk2sWP8sEk/wkx3ber0ho="
-        }
-      ]
-    },
-    {
-      "Route": "css/responsive.hlqelqdi63.css",
-      "AssetFile": "D:\\krishna-work\\work\\arindamengineering\\obj\\Debug\\net9.0\\compressed\\ckcipdd778-hlqelqdi63.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.001212121212"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "824"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"r0gZWvIf6tb+ixDIFM4Fzsnk2sWP8sEk/wkx3ber0ho=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 15 Jul 2025 04:50:55 GMT"
+          "Value": "Tue, 22 Jul 2025 17:48:43 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"21SA4Wew3yO9zKkpHi/rKkb212vZ7qeE2hZ2v8oScqE=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "hlqelqdi63"
+          "Value": "asyijh0j09"
         },
         {
           "Name": "label",
@@ -8752,13 +8660,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-21SA4Wew3yO9zKkpHi/rKkb212vZ7qeE2hZ2v8oScqE="
+          "Value": "sha256-ZuhzuDPuI/aEJ9+LJBATKdopFXeuASLcOaSNT+haD5w="
         }
       ]
     },
     {
-      "Route": "css/responsive.hlqelqdi63.css",
-      "AssetFile": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\css\\responsive.css",
+      "Route": "css/responsive.asyijh0j09.css.gz",
+      "AssetFile": "D:\\krishna-work\\work\\arindamengineering\\obj\\Debug\\net9.0\\compressed\\ckcipdd778-asyijh0j09.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8767,7 +8675,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2230"
+          "Value": "1017"
         },
         {
           "Name": "Content-Type",
@@ -8775,56 +8683,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"21SA4Wew3yO9zKkpHi/rKkb212vZ7qeE2hZ2v8oScqE=\""
+          "Value": "\"41moZ8EQblwKjh9NSLC0y9zrHd+RZrw0v1y5Bhx+oGs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 15 Jul 2025 04:50:55 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "hlqelqdi63"
-        },
-        {
-          "Name": "label",
-          "Value": "css/responsive.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-21SA4Wew3yO9zKkpHi/rKkb212vZ7qeE2hZ2v8oScqE="
-        }
-      ]
-    },
-    {
-      "Route": "css/responsive.hlqelqdi63.css.gz",
-      "AssetFile": "D:\\krishna-work\\work\\arindamengineering\\obj\\Debug\\net9.0\\compressed\\ckcipdd778-hlqelqdi63.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "824"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"r0gZWvIf6tb+ixDIFM4Fzsnk2sWP8sEk/wkx3ber0ho=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 15 Jul 2025 04:50:55 GMT"
+          "Value": "Tue, 22 Jul 2025 17:48:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8842,7 +8705,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "hlqelqdi63"
+          "Value": "asyijh0j09"
         },
         {
           "Name": "label",
@@ -8850,13 +8713,150 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-r0gZWvIf6tb+ixDIFM4Fzsnk2sWP8sEk/wkx3ber0ho="
+          "Value": "sha256-41moZ8EQblwKjh9NSLC0y9zrHd+RZrw0v1y5Bhx+oGs="
         }
       ]
     },
     {
-      "Route": "css/site.css",
-      "AssetFile": "D:\\krishna-work\\work\\arindamengineering\\obj\\Debug\\net9.0\\compressed\\7f5avff3bp-zidbc2sev7.gz",
+      "Route": "css/responsive.css",
+      "AssetFile": "D:\\krishna-work\\work\\arindamengineering\\obj\\Debug\\net9.0\\compressed\\ckcipdd778-asyijh0j09.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000982318271"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1017"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"41moZ8EQblwKjh9NSLC0y9zrHd+RZrw0v1y5Bhx+oGs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Jul 2025 17:48:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ZuhzuDPuI/aEJ9+LJBATKdopFXeuASLcOaSNT+haD5w=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZuhzuDPuI/aEJ9+LJBATKdopFXeuASLcOaSNT+haD5w="
+        }
+      ]
+    },
+    {
+      "Route": "css/responsive.css",
+      "AssetFile": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\css\\responsive.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3099"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZuhzuDPuI/aEJ9+LJBATKdopFXeuASLcOaSNT+haD5w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Jul 2025 17:48:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZuhzuDPuI/aEJ9+LJBATKdopFXeuASLcOaSNT+haD5w="
+        }
+      ]
+    },
+    {
+      "Route": "css/responsive.css.gz",
+      "AssetFile": "D:\\krishna-work\\work\\arindamengineering\\obj\\Debug\\net9.0\\compressed\\ckcipdd778-asyijh0j09.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1017"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"41moZ8EQblwKjh9NSLC0y9zrHd+RZrw0v1y5Bhx+oGs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Jul 2025 17:48:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-41moZ8EQblwKjh9NSLC0y9zrHd+RZrw0v1y5Bhx+oGs="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.79mrgqr57w.css",
+      "AssetFile": "D:\\krishna-work\\work\\arindamengineering\\obj\\Debug\\net9.0\\compressed\\7f5avff3bp-79mrgqr57w.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -8875,15 +8875,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"m1Nv8kivz7Uz+ZX1fYWjudyNCu02NAOGsSjbgc3Q1yQ=\""
+          "Value": "\"s+G5VF740aKoowybmHMa3FKL/lQ9C2AQ9sozH6UkFwY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 15 Jul 2025 06:26:10 GMT"
+          "Value": "Mon, 21 Jul 2025 12:24:50 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -8899,18 +8899,26 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Oy2JKu0M+ow9y6WCARtWc+DrWH8sdKP0mheNJde7I/0=\""
+          "Value": "W/\"la54+wRSOBeY5oLLUVthSz2CrIRXaVSjSHHT0l6UVYU=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "79mrgqr57w"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-Oy2JKu0M+ow9y6WCARtWc+DrWH8sdKP0mheNJde7I/0="
+          "Value": "sha256-la54+wRSOBeY5oLLUVthSz2CrIRXaVSjSHHT0l6UVYU="
         }
       ]
     },
     {
-      "Route": "css/site.css",
+      "Route": "css/site.79mrgqr57w.css",
       "AssetFile": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -8920,7 +8928,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "46748"
+          "Value": "46740"
         },
         {
           "Name": "Content-Type",
@@ -8928,121 +8936,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Oy2JKu0M+ow9y6WCARtWc+DrWH8sdKP0mheNJde7I/0=\""
+          "Value": "\"la54+wRSOBeY5oLLUVthSz2CrIRXaVSjSHHT0l6UVYU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 15 Jul 2025 06:26:10 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Oy2JKu0M+ow9y6WCARtWc+DrWH8sdKP0mheNJde7I/0="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css.gz",
-      "AssetFile": "D:\\krishna-work\\work\\arindamengineering\\obj\\Debug\\net9.0\\compressed\\7f5avff3bp-zidbc2sev7.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "7332"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"m1Nv8kivz7Uz+ZX1fYWjudyNCu02NAOGsSjbgc3Q1yQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 15 Jul 2025 06:26:10 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-m1Nv8kivz7Uz+ZX1fYWjudyNCu02NAOGsSjbgc3Q1yQ="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.zidbc2sev7.css",
-      "AssetFile": "D:\\krishna-work\\work\\arindamengineering\\obj\\Debug\\net9.0\\compressed\\7f5avff3bp-zidbc2sev7.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000136369835"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "7332"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"m1Nv8kivz7Uz+ZX1fYWjudyNCu02NAOGsSjbgc3Q1yQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 15 Jul 2025 06:26:10 GMT"
+          "Value": "Mon, 21 Jul 2025 12:24:50 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"Oy2JKu0M+ow9y6WCARtWc+DrWH8sdKP0mheNJde7I/0=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "zidbc2sev7"
+          "Value": "79mrgqr57w"
         },
         {
           "Name": "label",
@@ -9050,58 +8958,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Oy2JKu0M+ow9y6WCARtWc+DrWH8sdKP0mheNJde7I/0="
+          "Value": "sha256-la54+wRSOBeY5oLLUVthSz2CrIRXaVSjSHHT0l6UVYU="
         }
       ]
     },
     {
-      "Route": "css/site.zidbc2sev7.css",
-      "AssetFile": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\css\\site.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "46748"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Oy2JKu0M+ow9y6WCARtWc+DrWH8sdKP0mheNJde7I/0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 15 Jul 2025 06:26:10 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "zidbc2sev7"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Oy2JKu0M+ow9y6WCARtWc+DrWH8sdKP0mheNJde7I/0="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.zidbc2sev7.css.gz",
-      "AssetFile": "D:\\krishna-work\\work\\arindamengineering\\obj\\Debug\\net9.0\\compressed\\7f5avff3bp-zidbc2sev7.gz",
+      "Route": "css/site.79mrgqr57w.css.gz",
+      "AssetFile": "D:\\krishna-work\\work\\arindamengineering\\obj\\Debug\\net9.0\\compressed\\7f5avff3bp-79mrgqr57w.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9118,11 +8981,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"m1Nv8kivz7Uz+ZX1fYWjudyNCu02NAOGsSjbgc3Q1yQ=\""
+          "Value": "\"s+G5VF740aKoowybmHMa3FKL/lQ9C2AQ9sozH6UkFwY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 15 Jul 2025 06:26:10 GMT"
+          "Value": "Mon, 21 Jul 2025 12:24:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9140,7 +9003,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "zidbc2sev7"
+          "Value": "79mrgqr57w"
         },
         {
           "Name": "label",
@@ -9148,7 +9011,144 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-m1Nv8kivz7Uz+ZX1fYWjudyNCu02NAOGsSjbgc3Q1yQ="
+          "Value": "sha256-s+G5VF740aKoowybmHMa3FKL/lQ9C2AQ9sozH6UkFwY="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css",
+      "AssetFile": "D:\\krishna-work\\work\\arindamengineering\\obj\\Debug\\net9.0\\compressed\\7f5avff3bp-79mrgqr57w.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000136369835"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7332"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"s+G5VF740aKoowybmHMa3FKL/lQ9C2AQ9sozH6UkFwY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Jul 2025 12:24:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"la54+wRSOBeY5oLLUVthSz2CrIRXaVSjSHHT0l6UVYU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-la54+wRSOBeY5oLLUVthSz2CrIRXaVSjSHHT0l6UVYU="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css",
+      "AssetFile": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "46740"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"la54+wRSOBeY5oLLUVthSz2CrIRXaVSjSHHT0l6UVYU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Jul 2025 12:24:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-la54+wRSOBeY5oLLUVthSz2CrIRXaVSjSHHT0l6UVYU="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css.gz",
+      "AssetFile": "D:\\krishna-work\\work\\arindamengineering\\obj\\Debug\\net9.0\\compressed\\7f5avff3bp-79mrgqr57w.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7332"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"s+G5VF740aKoowybmHMa3FKL/lQ9C2AQ9sozH6UkFwY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Jul 2025 12:24:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-s+G5VF740aKoowybmHMa3FKL/lQ9C2AQ9sozH6UkFwY="
         }
       ]
     },
@@ -17621,13 +17621,13 @@
       ]
     },
     {
-      "Route": "js/site.6o28m5kged.js",
-      "AssetFile": "D:\\krishna-work\\work\\arindamengineering\\obj\\Debug\\net9.0\\compressed\\tv5suu50od-6o28m5kged.gz",
+      "Route": "js/site.0hp6qfrxip.js",
+      "AssetFile": "D:\\krishna-work\\work\\arindamengineering\\obj\\Debug\\net9.0\\compressed\\tv5suu50od-0hp6qfrxip.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000326797386"
+          "Quality": "0.000293858360"
         }
       ],
       "ResponseHeaders": [
@@ -17637,15 +17637,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3059"
+          "Value": "3402"
         },
         {
           "Name": "ETag",
-          "Value": "\"vt1J2jzuHpGLc4JKFM1qtRbkyKxVMRYMj2llhpkp8lc=\""
+          "Value": "\"UiA8fRcjR8+De0Qh0VbTUzSF82lcXne4xb0suKOK8bw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 15 Jul 2025 05:21:48 GMT"
+          "Value": "Tue, 22 Jul 2025 17:58:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -17665,13 +17665,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"hgmCA5LFa8JM/Q3cCSRO9DgyePRyTpuRDnW/epruh4c=\""
+          "Value": "W/\"jFN+C6VmTsjyb1tfO9d583HRsS70SSO+WrKVWR0hffI=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "6o28m5kged"
+          "Value": "0hp6qfrxip"
         },
         {
           "Name": "label",
@@ -17679,12 +17679,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-hgmCA5LFa8JM/Q3cCSRO9DgyePRyTpuRDnW/epruh4c="
+          "Value": "sha256-jFN+C6VmTsjyb1tfO9d583HRsS70SSO+WrKVWR0hffI="
         }
       ]
     },
     {
-      "Route": "js/site.6o28m5kged.js",
+      "Route": "js/site.0hp6qfrxip.js",
       "AssetFile": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -17694,7 +17694,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "10603"
+          "Value": "12326"
         },
         {
           "Name": "Content-Type",
@@ -17702,11 +17702,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"hgmCA5LFa8JM/Q3cCSRO9DgyePRyTpuRDnW/epruh4c=\""
+          "Value": "\"jFN+C6VmTsjyb1tfO9d583HRsS70SSO+WrKVWR0hffI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 15 Jul 2025 05:21:48 GMT"
+          "Value": "Tue, 22 Jul 2025 17:58:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -17716,7 +17716,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "6o28m5kged"
+          "Value": "0hp6qfrxip"
         },
         {
           "Name": "label",
@@ -17724,13 +17724,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-hgmCA5LFa8JM/Q3cCSRO9DgyePRyTpuRDnW/epruh4c="
+          "Value": "sha256-jFN+C6VmTsjyb1tfO9d583HRsS70SSO+WrKVWR0hffI="
         }
       ]
     },
     {
-      "Route": "js/site.6o28m5kged.js.gz",
-      "AssetFile": "D:\\krishna-work\\work\\arindamengineering\\obj\\Debug\\net9.0\\compressed\\tv5suu50od-6o28m5kged.gz",
+      "Route": "js/site.0hp6qfrxip.js.gz",
+      "AssetFile": "D:\\krishna-work\\work\\arindamengineering\\obj\\Debug\\net9.0\\compressed\\tv5suu50od-0hp6qfrxip.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -17739,7 +17739,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3059"
+          "Value": "3402"
         },
         {
           "Name": "Content-Type",
@@ -17747,11 +17747,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"vt1J2jzuHpGLc4JKFM1qtRbkyKxVMRYMj2llhpkp8lc=\""
+          "Value": "\"UiA8fRcjR8+De0Qh0VbTUzSF82lcXne4xb0suKOK8bw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 15 Jul 2025 05:21:48 GMT"
+          "Value": "Tue, 22 Jul 2025 17:58:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -17769,7 +17769,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "6o28m5kged"
+          "Value": "0hp6qfrxip"
         },
         {
           "Name": "label",
@@ -17777,18 +17777,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-vt1J2jzuHpGLc4JKFM1qtRbkyKxVMRYMj2llhpkp8lc="
+          "Value": "sha256-UiA8fRcjR8+De0Qh0VbTUzSF82lcXne4xb0suKOK8bw="
         }
       ]
     },
     {
       "Route": "js/site.js",
-      "AssetFile": "D:\\krishna-work\\work\\arindamengineering\\obj\\Debug\\net9.0\\compressed\\tv5suu50od-6o28m5kged.gz",
+      "AssetFile": "D:\\krishna-work\\work\\arindamengineering\\obj\\Debug\\net9.0\\compressed\\tv5suu50od-0hp6qfrxip.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000326797386"
+          "Quality": "0.000293858360"
         }
       ],
       "ResponseHeaders": [
@@ -17798,15 +17798,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3059"
+          "Value": "3402"
         },
         {
           "Name": "ETag",
-          "Value": "\"vt1J2jzuHpGLc4JKFM1qtRbkyKxVMRYMj2llhpkp8lc=\""
+          "Value": "\"UiA8fRcjR8+De0Qh0VbTUzSF82lcXne4xb0suKOK8bw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 15 Jul 2025 05:21:48 GMT"
+          "Value": "Tue, 22 Jul 2025 17:58:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -17826,13 +17826,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"hgmCA5LFa8JM/Q3cCSRO9DgyePRyTpuRDnW/epruh4c=\""
+          "Value": "W/\"jFN+C6VmTsjyb1tfO9d583HRsS70SSO+WrKVWR0hffI=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-hgmCA5LFa8JM/Q3cCSRO9DgyePRyTpuRDnW/epruh4c="
+          "Value": "sha256-jFN+C6VmTsjyb1tfO9d583HRsS70SSO+WrKVWR0hffI="
         }
       ]
     },
@@ -17847,7 +17847,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "10603"
+          "Value": "12326"
         },
         {
           "Name": "Content-Type",
@@ -17855,11 +17855,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"hgmCA5LFa8JM/Q3cCSRO9DgyePRyTpuRDnW/epruh4c=\""
+          "Value": "\"jFN+C6VmTsjyb1tfO9d583HRsS70SSO+WrKVWR0hffI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 15 Jul 2025 05:21:48 GMT"
+          "Value": "Tue, 22 Jul 2025 17:58:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -17869,13 +17869,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-hgmCA5LFa8JM/Q3cCSRO9DgyePRyTpuRDnW/epruh4c="
+          "Value": "sha256-jFN+C6VmTsjyb1tfO9d583HRsS70SSO+WrKVWR0hffI="
         }
       ]
     },
     {
       "Route": "js/site.js.gz",
-      "AssetFile": "D:\\krishna-work\\work\\arindamengineering\\obj\\Debug\\net9.0\\compressed\\tv5suu50od-6o28m5kged.gz",
+      "AssetFile": "D:\\krishna-work\\work\\arindamengineering\\obj\\Debug\\net9.0\\compressed\\tv5suu50od-0hp6qfrxip.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -17884,7 +17884,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3059"
+          "Value": "3402"
         },
         {
           "Name": "Content-Type",
@@ -17892,11 +17892,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"vt1J2jzuHpGLc4JKFM1qtRbkyKxVMRYMj2llhpkp8lc=\""
+          "Value": "\"UiA8fRcjR8+De0Qh0VbTUzSF82lcXne4xb0suKOK8bw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 15 Jul 2025 05:21:48 GMT"
+          "Value": "Tue, 22 Jul 2025 17:58:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -17914,7 +17914,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-vt1J2jzuHpGLc4JKFM1qtRbkyKxVMRYMj2llhpkp8lc="
+          "Value": "sha256-UiA8fRcjR8+De0Qh0VbTUzSF82lcXne4xb0suKOK8bw="
         }
       ]
     },
