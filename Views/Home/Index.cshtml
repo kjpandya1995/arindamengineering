@@ -1,0 +1,569 @@
+﻿@{
+  ViewData["Title"] = "Home";
+}
+
+
+<!-- Hero Section -->
+<div class="hero-section ">
+  <div class="swiper">
+    <div class="swiper-wrapper">
+      <div class="swiper-slide">
+        <div class="slider-info">
+          <div class="img-mask">
+            <div class="overlay"></div>
+            <div class="section-image" style="background-image: url('@Url.Content("~/img/storage-tank.jpg")');"></div>
+          </div>
+          <div class="slider-info-box">
+            <div class="slider-text">
+              <h2><span>Storage </span> <br />Tanks </h2>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="swiper-slide">
+        <div class="slider-info">
+          <div class="img-mask">
+            <div class="overlay"></div>
+            <div class="section-image" style="background-image: url('@Url.Content("~/img/work4.jpg")');"></div>
+          </div>
+          <div class="slider-info-box">
+            <div class="slider-text">
+              <h2><span>Heavy
+                </span> <br />Fabrication </h2>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="swiper-slide">
+        <div class="slider-info">
+          <div class="img-mask">
+            <div class="overlay"></div>
+            <div class="section-image" style="background-image: url('@Url.Content("~/img/pressure-vessel.jpg")');">
+            </div>
+          </div>
+          <div class="slider-info-box">
+            <div class="slider-text">
+              <h2><span>Pressure </span> <br />Vessels </h2>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="hero-pagination"></div>
+  <div class="swiper-scrollbar"></div>
+</div>
+<a asp-fragment="about" class="mouse"></a>
+</div>
+<!-- Featured Services Section -->
+
+<!-- <div id="featured-services" class="featured-services section py-5">
+  <div class="container">
+    <div class="row gy-4">
+      <div class="col-xl-3 col-md-6 d-flex" data-aos="fade-up" data-aos-delay="100">
+        <div class="service-item text-center p-4 shadow-sm rounded bg-white position-relative hover-effect">
+          <div class="icon-wrapper mx-auto mb-3">
+            <i class="bi bi-people icon"></i>
+          </div>
+          <h4><a href="#" class="stretched-link text-dark text-decoration-none">Professional Engineering</a></h4>
+          <p class="text-muted">Expert solutions tailored to your needs.</p>
+        </div>
+      </div>
+
+      <div class="col-xl-3 col-md-6 d-flex" data-aos="fade-up" data-aos-delay="200">
+        <div class="service-item text-center p-4 shadow-sm rounded bg-white position-relative hover-effect">
+          <div class="icon-wrapper mx-auto mb-3">
+            <i class="bi bi-bounding-box-circles icon"></i>
+          </div>
+          <h4><a href="#" class="stretched-link text-dark text-decoration-none">We Deliver Quality</a></h4>
+          <p class="text-muted">Consistent and reliable project delivery.</p>
+        </div>
+      </div>
+
+      <div class="col-xl-3 col-md-6 d-flex" data-aos="fade-up" data-aos-delay="300">
+        <div class="service-item text-center p-4 shadow-sm rounded bg-white position-relative hover-effect">
+          <div class="icon-wrapper mx-auto mb-3">
+            <i class="bi bi-clock icon"></i>
+          </div>
+          <h4><a href="#" class="stretched-link text-dark text-decoration-none">Always On Time</a></h4>
+          <p class="text-muted">Deadlines are promises we keep.</p>
+        </div>
+      </div>
+
+      <div class="col-xl-3 col-md-6 d-flex" data-aos="fade-up" data-aos-delay="400">
+        <div class="service-item text-center p-4 shadow-sm rounded bg-white position-relative hover-effect">
+          <div class="icon-wrapper mx-auto mb-3">
+            <i class="bi bi-broadcast icon"></i>
+          </div>
+          <h4><a href="#" class="stretched-link text-dark text-decoration-none">We Are Passionate</a></h4>
+          <p class="text-muted">Driven by innovation and excellence.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div> -->
+
+<!-- About Section -->
+<section id="about" class="about section">
+  <!-- Section Title -->
+  <div class="container section-title" data-aos="fade-up">
+    <h2>Our Story</h2>
+    <p><span>Find Out More</span> <span class="description-title">Who We Are.
+      </span></p>
+  </div><!-- End Section Title -->
+
+  <div class="container">
+
+    <div class="row gy-3">
+
+      <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
+
+        <img src="~/img/storage-tank.jpg" alt="" class="img-fluid">
+
+      </div>
+
+      <div class="col-lg-6 d-flex flex-column justify-content-center" data-aos="fade-up" data-aos-delay="200">
+        <div class="about-content ps-0 ps-lg-3">
+          <h3>Arindam Engineering would continue to initiate actions to strengthen the current relationship with
+            customers for long term business partnership.</h3>
+          <p class="fst-italic">
+            We are a credible company who can deliver quality job in time. Depending on supporting and trust of our
+            customers, we shall get good achievements, we will live up to other's high expectations, striving to
+            manufacture the best in the eld, reviving our nation's industry and create a better tomorrow.
+          </p>
+          <ul>
+            <li>
+              <i class="bi bi-diagram-3"></i>
+              <div>
+                <h4>Production capacity</h4>
+                <p>We have a Production capacity of 200 Tons/Month with work area of 20000 Sq Ft.</p>
+              </div>
+            </li>
+            <li>
+              <i class="bi bi-fullscreen-exit"></i>
+              <div>
+                <h4>Project Execution Monitoring & Coordination Activities</h4>
+                <p>Periodic execution progress reviews, cost tracking, contingency planning, chasing up engineering,
+                  deliveries, erection and commissioning activities, internal and external documentation.</p>
+              </div>
+            </li>
+
+
+          </ul>
+          <p>
+            <a class="btn btn-outline-primary button" href="/About">Read More </a>
+          </p>
+        </div>
+
+      </div>
+    </div>
+
+  </div>
+
+</section><!-- /About Section -->
+
+<!-- Stats Section -->
+<!-- <section id="stats" class="stats section">
+
+      <div class="container" data-aos="fade-up" data-aos-delay="100">
+
+        <div class="row gy-4">
+
+          <div class="col-lg-3 col-md-6 d-flex flex-column align-items-center">
+            <i class="bi bi-emoji-smile"></i>
+            <div class="stats-item">
+              <span data-purecounter-start="0" data-purecounter-end="35" data-purecounter-duration="1" class="purecounter"></span>
+              <p>Happy Clients</p>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 d-flex flex-column align-items-center">
+            <i class="bi bi-journal-richtext"></i>
+            <div class="stats-item">
+              <span data-purecounter-start="0" data-purecounter-end="10" data-purecounter-duration="1" class="purecounter"></span>
+              <p>Project Optimization</p>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 d-flex flex-column align-items-center">
+            <i class="bi bi-people"></i>
+            <div class="stats-item">
+              <span data-purecounter-start="0" data-purecounter-end="28" data-purecounter-duration="1" class="purecounter"></span>
+              <p>Staff Members</p>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 d-flex flex-column align-items-center">
+            <i class="bi bi-clock"></i>
+            <div class="stats-item">
+              <span data-purecounter-start="0" data-purecounter-end="1453" data-purecounter-duration="1" class="purecounter"></span>
+              <p>Hours Of Support</p>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+
+    </section> -->
+
+
+<!-- <section id="services" class="services section">
+
+     
+      <div class="container section-title" data-aos="fade-up">
+        <h2>Services</h2>
+        <p><span>Check Our</span> <span class="description-title">Services</span></p>
+      </div>
+
+      <div class="container">
+
+        <div class="row gy-4">
+
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
+            <div class="service-item position-relative">
+              <div class="icon">
+                <i class="bi bi-activity"></i>
+              </div>
+              <a href="#" class="stretched-link">
+                <h3>Nesciunt Mete</h3>
+              </a>
+              <p>Provident nihil minus qui consequatur non omnis maiores. Eos accusantium minus dolores iure perferendis tempore et consequatur.</p>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
+            <div class="service-item position-relative">
+              <div class="icon">
+                <i class="bi bi-broadcast"></i>
+              </div>
+              <a href="#" class="stretched-link">
+                <h3>Eosle Commodi</h3>
+              </a>
+              <p>Ut autem aut autem non a. Sint sint sit facilis nam iusto sint. Libero corrupti neque eum hic non ut nesciunt dolorem.</p>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
+            <div class="service-item position-relative">
+              <div class="icon">
+                <i class="bi bi-easel"></i>
+              </div>
+              <a href="#" class="stretched-link">
+                <h3>Ledo Markt</h3>
+              </a>
+              <p>Ut excepturi voluptatem nisi sed. Quidem fuga consequatur. Minus ea aut. Vel qui id voluptas adipisci eos earum corrupti.</p>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="400">
+            <div class="service-item position-relative">
+              <div class="icon">
+                <i class="bi bi-bounding-box-circles"></i>
+              </div>
+              <a href="#" class="stretched-link">
+                <h3>Asperiores Commodit</h3>
+              </a>
+              <p>Non et temporibus minus omnis sed dolor esse consequatur. Cupiditate sed error ea fuga sit provident adipisci neque.</p>
+              <a href="#" class="stretched-link"></a>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="500">
+            <div class="service-item position-relative">
+              <div class="icon">
+                <i class="bi bi-calendar4-week"></i>
+              </div>
+              <a href="#" class="stretched-link">
+                <h3>Velit Doloremque</h3>
+              </a>
+              <p>Cumque et suscipit saepe. Est maiores autem enim facilis ut aut ipsam corporis aut. Sed animi at autem alias eius labore.</p>
+              <a href="#" class="stretched-link"></a>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="600">
+            <div class="service-item position-relative">
+              <div class="icon">
+                <i class="bi bi-chat-square-text"></i>
+              </div>
+              <a href="#" class="stretched-link">
+                <h3>Dolori Architecto</h3>
+              </a>
+              <p>Hic molestias ea quibusdam eos. Fugiat enim doloremque aut neque non et debitis iure. Corrupti recusandae ducimus enim.</p>
+              <a href="#" class="stretched-link"></a>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+
+    </section> -->
+
+
+
+<!-- Portfolio Section -->
+<section id="portfolio" class="portfolio section light-background">
+  <div class="overlay"></div>
+
+  <!-- Section Title -->
+  <div class="container section-title" data-aos="fade-up">
+    <h2>Our Work</h2>
+    <p><span>Explore Our&nbsp;</span> <span class="description-title">Projects</span></p>
+  </div><!-- End Section Title -->
+  <div class="container">
+
+    <div class="isotope-layout" data-default-filter="*" data-layout="masonry" data-sort="original-order">
+
+      <ul class="portfolio-filters isotope-filters" data-aos="fade-up" data-aos-delay="100">
+        <li data-filter="*" class="filter-active">All</li>
+        <li data-filter=".filter-app">App</li>
+        <li data-filter=".filter-product">Card</li>
+        <li data-filter=".filter-branding">Web</li>
+      </ul><!-- End Portfolio Filters -->
+
+      <div class="row gy-4 isotope-container" data-aos="fade-up" data-aos-delay="200">
+
+        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app">
+          <img src="~/img/pressure-vessel.jpg" class="img-fluid" alt="">
+          <div class="portfolio-info">
+            <h4>App 1</h4>
+            <p>Lorem ipsum, dolor sit</p>
+            <a href="~/img/pressure-vessel.jpg" title="pressure vessel" data-gallery="portfolio-gallery-app"
+              class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+          </div>
+        </div><!-- End Portfolio Item -->
+
+        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-product">
+          <img src="~/img/storage-tank.jpg" class="img-fluid" alt="">
+          <div class="portfolio-info">
+            <h4>Product 1</h4>
+            <p>Lorem ipsum, dolor sit</p>
+            <a href="~/img//storage-tank.jpg" title="Product 1" data-gallery="portfolio-gallery-product"
+              class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+          </div>
+        </div><!-- End Portfolio Item -->
+
+        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-branding">
+          <img src="~/img/storage-tank.jpg" class="img-fluid" alt="">
+          <div class="portfolio-info">
+            <h4>Branding 1</h4>
+            <p>Lorem ipsum, dolor sit</p>
+            <a href="~/img/storage-tank.jpg" title="Branding 1" data-gallery="portfolio-gallery-branding"
+              class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+          </div>
+        </div><!-- End Portfolio Item -->
+
+        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app">
+          <img src="~/img/construction-2.jpg" class="img-fluid" alt="">
+          <div class="portfolio-info">
+            <h4>App 2</h4>
+            <p>Lorem ipsum, dolor sit</p>
+            <a href="~/img/construction-2.jpg" title="App 2" data-gallery="portfolio-gallery-app"
+              class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+          </div>
+        </div><!-- End Portfolio Item -->
+
+        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-product">
+          <img src="~/img/pressure-vessel.jpg" class="img-fluid" alt="">
+          <div class="portfolio-info">
+            <h4>Product 2</h4>
+            <p>Lorem ipsum, dolor sit</p>
+            <a href="~/img/pressure-vessel.jpg" title="Product 2" data-gallery="portfolio-gallery-product"
+              class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+          </div>
+        </div><!-- End Portfolio Item -->
+
+        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-branding">
+          <img src="~/img/construction.jpg" class="img-fluid" alt="">
+          <div class="portfolio-info">
+            <h4>Branding 2</h4>
+            <p>Lorem ipsum, dolor sit</p>
+            <a href="~/img/construction.jpg" title="Branding 2" data-gallery="portfolio-gallery-branding"
+              class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+          </div>
+        </div><!-- End Portfolio Item -->
+
+        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app">
+          <img src="~/img/hero-bg.jpg" class="img-fluid" alt="">
+          <div class="portfolio-info">
+            <h4>App 3</h4>
+            <p>Lorem ipsum, dolor sit</p>
+            <a href="~/img/hero-bg.jpg" title="App 3" data-gallery="portfolio-gallery-app"
+              class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+          </div>
+        </div><!-- End Portfolio Item -->
+
+        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-product">
+          <img src="~/img/construction.jpg" class="img-fluid" alt="">
+          <div class="portfolio-info">
+            <h4>Product 3</h4>
+            <p>Lorem ipsum, dolor sit</p>
+            <a href="~/img/construction.jpg" title="Product 3" data-gallery="portfolio-gallery-product"
+              class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+          </div>
+        </div><!-- End Portfolio Item -->
+
+        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-branding">
+          <img src="~/img/construction.jpg" class="img-fluid" alt="">
+          <div class="portfolio-info">
+            <h4>Branding 3</h4>
+            <p>Lorem ipsum, dolor sit</p>
+            <a href="~/img/construction.jpg" title="Branding 2" data-gallery="portfolio-gallery-branding"
+              class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+          </div>
+        </div><!-- End Portfolio Item -->
+
+      </div><!-- End Portfolio Container -->
+
+    </div>
+
+  </div>
+
+</section><!-- /Portfolio Section -->
+
+<!-- Clients Section -->
+<div id="clients" class="client-section section ">
+  <div class="container">
+    <div class="swiper">
+      <div class="swiper-wrapper align-items-center">
+        <div class="swiper-slide"><img src="~/img/clients/Atlanta.png" class="img-fluid" alt=""></div>
+        <div class="swiper-slide"><img src="~/img/clients/castrol.png" class="img-fluid" alt=""></div>
+        <div class="swiper-slide"><img src="~/img/clients/danieli.png" class="img-fluid" alt=""></div>
+        <div class="swiper-slide"><img src="~/img/clients/elecon.png" class="img-fluid" alt=""></div>
+        <div class="swiper-slide"><img src="~/img/clients/glascoat.png" class="img-fluid" alt=""></div>
+        <div class="swiper-slide"><img src="~/img/clients/mcl.png" class="img-fluid" alt=""></div>
+        <div class="swiper-slide"><img src="~/img/clients/sms-group.png" class="img-fluid" alt=""></div>
+        <div class="swiper-slide"><img src="~/img/clients/tacklers.png" class="img-fluid" alt=""></div>
+        <div class="swiper-slide"><img src="~/img/clients/texmaco-logo.png" class="img-fluid" alt=""></div>
+
+      </div>
+
+    </div>
+  </div>
+</div>
+<!-- /Clients Section -->
+
+
+<div class="quote-container" data-aos="fade-up">
+  <div class="right-banner"></div>
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12" >
+        <div class="quote-box animate-effect anim-section animate">
+          <h4 data-aos="fade-up" data-aos-delay="100">Supplying individualized, high-standard services</h4>
+          <div class="quote-button" data-aos="fade-up" data-aos-delay="00"><a href="contact.html">GET A QUOTE</a></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+@* 
+<section id="stats" class="stats section">
+<div class="overlay"></div>
+    <div class="container" data-aos="fade-up" data-aos-delay="100">
+
+        <div class="row gy-4">
+
+            <div class="col-lg-4 col-md-6 d-flex flex-column align-items-center">
+                <i class="bi bi-emoji-smile"></i>
+                <div class="stats-item">
+                    <span data-purecounter-start="0" data-purecounter-end="50" data-purecounter-duration="1"
+                        class="purecounter"></span>
+                    <p>Happy Clients</p>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 d-flex flex-column align-items-center">
+                <i class="bi bi-journal-richtext"></i>
+                <div class="stats-item">
+                    <span data-purecounter-start="0" data-purecounter-end="100" data-purecounter-duration="1"
+                        class="purecounter"></span>
+                    <p>Project Optimization</p>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 d-flex flex-column align-items-center">
+                <i class="bi bi-people"></i>
+                <div class="stats-item">
+                    <span data-purecounter-start="0" data-purecounter-end="28" data-purecounter-duration="1"
+                        class="purecounter"></span>
+                    <p>Staff Members</p>
+                </div>
+            </div>
+
+
+
+        </div>
+
+    </div>
+
+</section> *@
+
+
+
+
+<!-- Team Section -->
+<div id="team" class="team section ">
+
+  <!-- Section Title -->
+  <div class="container section-title" data-aos="fade-up">
+    <h2>Meet the Team</h2>
+    <p><span>Dedicated & Passionate</span> <span class="description-title">Professionals</span></p>
+  </div><!-- End Section Title -->
+
+  <div class="container">
+
+    <div class="row gy-4 justify-content-center">
+
+      <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
+        <div class="team-member">
+          <div class="member-img">
+            <img src="~/img/team/team02.png" class="img-fluid" alt="">
+
+          </div>
+          <div class="member-info">
+            <h4>Ajaysinh</h4>
+            <span>Managing Director & CEO</span>
+          </div>
+        </div>
+      </div><!-- End Team Member -->
+
+      <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
+        <div class="team-member">
+          <div class="member-img">
+            <img src="~/img/team/team01.png" class="img-fluid" alt="">
+
+          </div>
+          <div class="member-info">
+            <h4>Vinayak</h4>
+            <span>Sales & Marketing Head</span>
+          </div>
+        </div>
+      </div><!-- End Team Member -->
+
+      <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
+        <div class="team-member">
+          <div class="member-img">
+            <img src="~/img/team/team03.png" class="img-fluid" alt="">
+            <!-- <div class="social">
+                  <a href=""><i class="bi bi-twitter-x"></i></a>
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
+                </div> -->
+          </div>
+          <div class="member-info">
+            <h4>Dhaval</h4>
+            <span>Technical Head</span>
+          </div>
+        </div>
+      </div><!-- End Team Member -->
+
+
+
+    </div>
+
+  </div>
+
+</div><!-- /Team Section -->

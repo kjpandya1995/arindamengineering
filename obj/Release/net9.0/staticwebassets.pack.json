@@ -1,0 +1,949 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\obj\\Release\\net9.0\\scopedcss\\projectbundle\\arindamengineering.bundle.scp.css",
+      "PackagePath": "staticwebassets\\arindamengineering.nu6q63lqbj.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\about.jpg",
+      "PackagePath": "staticwebassets\\img\\about.jpg"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\img\\apple-touch-icon.png"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\approach.png",
+      "PackagePath": "staticwebassets\\img\\approach.png"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\approach.png.png",
+      "PackagePath": "staticwebassets\\img\\approach.png.png"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\client_logo\\Castrol_logo_2023.svg.png",
+      "PackagePath": "staticwebassets\\img\\client_logo\\Castrol_logo_2023.svg.png"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\client_logo\\Danieli-Logo.wine.png",
+      "PackagePath": "staticwebassets\\img\\client_logo\\Danieli-Logo.wine.png"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\client_logo\\Elecon-Engineering-Log.png",
+      "PackagePath": "staticwebassets\\img\\client_logo\\Elecon-Engineering-Log.png"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\client_logo\\HLE+Glascoat+Logo+Blue.png",
+      "PackagePath": "staticwebassets\\img\\client_logo\\HLE+Glascoat+Logo+Blue.png"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\client_logo\\New-Project-4.png",
+      "PackagePath": "staticwebassets\\img\\client_logo\\New-Project-4.png"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\client_logo\\SMSGroup.svg.png",
+      "PackagePath": "staticwebassets\\img\\client_logo\\SMSGroup.svg.png"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\client_logo\\SWSOLAR.NS_BIG-4fd0b916.png",
+      "PackagePath": "staticwebassets\\img\\client_logo\\SWSOLAR.NS_BIG-4fd0b916.png"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\client_logo\\Tacklers-Logo-scaled.jpg",
+      "PackagePath": "staticwebassets\\img\\client_logo\\Tacklers-Logo-scaled.jpg"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\client_logo\\atlanta_logo_horizotal.png",
+      "PackagePath": "staticwebassets\\img\\client_logo\\atlanta_logo_horizotal.png"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\client_logo\\elecon-logo.svg",
+      "PackagePath": "staticwebassets\\img\\client_logo\\elecon-logo.svg"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\client_logo\\images.jpeg",
+      "PackagePath": "staticwebassets\\img\\client_logo\\images.jpeg"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\client_logo\\images.png",
+      "PackagePath": "staticwebassets\\img\\client_logo\\images.png"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\client_logo\\mcl.png",
+      "PackagePath": "staticwebassets\\img\\client_logo\\mcl.png"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\client_logo\\technifeb.png",
+      "PackagePath": "staticwebassets\\img\\client_logo\\technifeb.png"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\client_logo\\telematrix-logo.jpeg",
+      "PackagePath": "staticwebassets\\img\\client_logo\\telematrix-logo.jpeg"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\client_logo\\texmaco.png",
+      "PackagePath": "staticwebassets\\img\\client_logo\\texmaco.png"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\client_logo\\yu0lyt0chjiukkvnwgll.webp",
+      "PackagePath": "staticwebassets\\img\\client_logo\\yu0lyt0chjiukkvnwgll.webp"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\clients\\Atlanta.png",
+      "PackagePath": "staticwebassets\\img\\clients\\Atlanta.png"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\clients\\castrol.png",
+      "PackagePath": "staticwebassets\\img\\clients\\castrol.png"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\clients\\client-1.png",
+      "PackagePath": "staticwebassets\\img\\clients\\client-1.png"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\clients\\client-2.png",
+      "PackagePath": "staticwebassets\\img\\clients\\client-2.png"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\clients\\client-3.png",
+      "PackagePath": "staticwebassets\\img\\clients\\client-3.png"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\clients\\client-4.png",
+      "PackagePath": "staticwebassets\\img\\clients\\client-4.png"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\clients\\client-5.png",
+      "PackagePath": "staticwebassets\\img\\clients\\client-5.png"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\clients\\client-6.png",
+      "PackagePath": "staticwebassets\\img\\clients\\client-6.png"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\clients\\client-7.png",
+      "PackagePath": "staticwebassets\\img\\clients\\client-7.png"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\clients\\client-8.png",
+      "PackagePath": "staticwebassets\\img\\clients\\client-8.png"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\clients\\danieli.png",
+      "PackagePath": "staticwebassets\\img\\clients\\danieli.png"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\clients\\elecon.png",
+      "PackagePath": "staticwebassets\\img\\clients\\elecon.png"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\clients\\glascoat.png",
+      "PackagePath": "staticwebassets\\img\\clients\\glascoat.png"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\clients\\mcl.png",
+      "PackagePath": "staticwebassets\\img\\clients\\mcl.png"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\clients\\pollucon-enviro-eng.png",
+      "PackagePath": "staticwebassets\\img\\clients\\pollucon-enviro-eng.png"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\clients\\pollucon-enviro.png",
+      "PackagePath": "staticwebassets\\img\\clients\\pollucon-enviro.png"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\clients\\pollucon.png",
+      "PackagePath": "staticwebassets\\img\\clients\\pollucon.png"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\clients\\pyrogreen-.png",
+      "PackagePath": "staticwebassets\\img\\clients\\pyrogreen-.png"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\clients\\pyrogreen.png",
+      "PackagePath": "staticwebassets\\img\\clients\\pyrogreen.png"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\clients\\sms-group.png",
+      "PackagePath": "staticwebassets\\img\\clients\\sms-group.png"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\clients\\sterling&wilson.png",
+      "PackagePath": "staticwebassets\\img\\clients\\sterling&wilson.png"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\clients\\tacklers.png",
+      "PackagePath": "staticwebassets\\img\\clients\\tacklers.png"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\clients\\telematrix-.png",
+      "PackagePath": "staticwebassets\\img\\clients\\telematrix-.png"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\clients\\telematrix.png",
+      "PackagePath": "staticwebassets\\img\\clients\\telematrix.png"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\clients\\texhnifab-.png",
+      "PackagePath": "staticwebassets\\img\\clients\\texhnifab-.png"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\clients\\texhnifab.png",
+      "PackagePath": "staticwebassets\\img\\clients\\texhnifab.png"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\clients\\texmaco-logo.png",
+      "PackagePath": "staticwebassets\\img\\clients\\texmaco-logo.png"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\construction-2.jpg",
+      "PackagePath": "staticwebassets\\img\\construction-2.jpg"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\construction.jpg",
+      "PackagePath": "staticwebassets\\img\\construction.jpg"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\img\\favicon.png"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\footer-logo.png",
+      "PackagePath": "staticwebassets\\img\\footer-logo.png"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\hero-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\hero-bg.jpg"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\iso-blue.png",
+      "PackagePath": "staticwebassets\\img\\iso-blue.png"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\iso-white.png",
+      "PackagePath": "staticwebassets\\img\\iso-white.png"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\logo-.png",
+      "PackagePath": "staticwebassets\\img\\logo-.png"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\logo-white.png",
+      "PackagePath": "staticwebassets\\img\\logo-white.png"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\masonry-portfolio\\masonry-portfolio-1.jpg",
+      "PackagePath": "staticwebassets\\img\\masonry-portfolio\\masonry-portfolio-1.jpg"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\masonry-portfolio\\masonry-portfolio-2.jpg",
+      "PackagePath": "staticwebassets\\img\\masonry-portfolio\\masonry-portfolio-2.jpg"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\masonry-portfolio\\masonry-portfolio-3.jpg",
+      "PackagePath": "staticwebassets\\img\\masonry-portfolio\\masonry-portfolio-3.jpg"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\masonry-portfolio\\masonry-portfolio-4.jpg",
+      "PackagePath": "staticwebassets\\img\\masonry-portfolio\\masonry-portfolio-4.jpg"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\masonry-portfolio\\masonry-portfolio-5.jpg",
+      "PackagePath": "staticwebassets\\img\\masonry-portfolio\\masonry-portfolio-5.jpg"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\masonry-portfolio\\masonry-portfolio-6.jpg",
+      "PackagePath": "staticwebassets\\img\\masonry-portfolio\\masonry-portfolio-6.jpg"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\masonry-portfolio\\masonry-portfolio-7.jpg",
+      "PackagePath": "staticwebassets\\img\\masonry-portfolio\\masonry-portfolio-7.jpg"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\masonry-portfolio\\masonry-portfolio-8.jpg",
+      "PackagePath": "staticwebassets\\img\\masonry-portfolio\\masonry-portfolio-8.jpg"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\masonry-portfolio\\masonry-portfolio-9.jpg",
+      "PackagePath": "staticwebassets\\img\\masonry-portfolio\\masonry-portfolio-9.jpg"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\mission.png",
+      "PackagePath": "staticwebassets\\img\\mission.png"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\our-approch-icon.png",
+      "PackagePath": "staticwebassets\\img\\our-approch-icon.png"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\portfolio\\app-1.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\app-1.jpg"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\portfolio\\books-1.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\books-1.jpg"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\portfolio\\branding-1.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\branding-1.jpg"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\portfolio\\product-1.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\product-1.jpg"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\pressure-vessel.jpg",
+      "PackagePath": "staticwebassets\\img\\pressure-vessel.jpg"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\services.jpg",
+      "PackagePath": "staticwebassets\\img\\services.jpg"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\storage-tank.jpg",
+      "PackagePath": "staticwebassets\\img\\storage-tank.jpg"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\team\\New Project (1).png",
+      "PackagePath": "staticwebassets\\img\\team\\New Project (1).png"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\team\\New Project (6).png",
+      "PackagePath": "staticwebassets\\img\\team\\New Project (6).png"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\team\\team-1.jpg",
+      "PackagePath": "staticwebassets\\img\\team\\team-1.jpg"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\team\\team-2.jpg",
+      "PackagePath": "staticwebassets\\img\\team\\team-2.jpg"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\team\\team-3.jpg",
+      "PackagePath": "staticwebassets\\img\\team\\team-3.jpg"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\team\\team-4.jpg",
+      "PackagePath": "staticwebassets\\img\\team\\team-4.jpg"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\team\\team01.png",
+      "PackagePath": "staticwebassets\\img\\team\\team01.png"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\team\\team02.png",
+      "PackagePath": "staticwebassets\\img\\team\\team02.png"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\team\\team03.png",
+      "PackagePath": "staticwebassets\\img\\team\\team03.png"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\team\\team1.png",
+      "PackagePath": "staticwebassets\\img\\team\\team1.png"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\team\\team2.png",
+      "PackagePath": "staticwebassets\\img\\team\\team2.png"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\team\\team3.png",
+      "PackagePath": "staticwebassets\\img\\team\\team3.png"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\testimonials-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonials-bg.jpg"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\testimonials\\testimonials-1.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonials\\testimonials-1.jpg"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\testimonials\\testimonials-2.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonials\\testimonials-2.jpg"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\testimonials\\testimonials-3.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonials\\testimonials-3.jpg"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\testimonials\\testimonials-4.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonials\\testimonials-4.jpg"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\testimonials\\testimonials-5.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonials\\testimonials-5.jpg"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\vision-mission-icon.png",
+      "PackagePath": "staticwebassets\\img\\vision-mission-icon.png"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\img\\work4.jpg",
+      "PackagePath": "staticwebassets\\img\\work4.jpg"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\aos\\aos.cjs.js",
+      "PackagePath": "staticwebassets\\lib\\aos\\aos.cjs.js"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\aos\\aos.css",
+      "PackagePath": "staticwebassets\\lib\\aos\\aos.css"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\aos\\aos.esm.js",
+      "PackagePath": "staticwebassets\\lib\\aos\\aos.esm.js"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\aos\\aos.js",
+      "PackagePath": "staticwebassets\\lib\\aos\\aos.js"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\aos\\aos.js.map",
+      "PackagePath": "staticwebassets\\lib\\aos\\aos.js.map"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap-icons\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\bootstrap-icons.css"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap-icons\\bootstrap-icons.json",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\bootstrap-icons.json"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap-icons\\bootstrap-icons.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\bootstrap-icons.min.css"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap-icons\\bootstrap-icons.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\bootstrap-icons.scss"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\glightbox\\css\\glightbox.css",
+      "PackagePath": "staticwebassets\\lib\\glightbox\\css\\glightbox.css"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\glightbox\\css\\glightbox.min.css",
+      "PackagePath": "staticwebassets\\lib\\glightbox\\css\\glightbox.min.css"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\glightbox\\js\\glightbox.js",
+      "PackagePath": "staticwebassets\\lib\\glightbox\\js\\glightbox.js"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\glightbox\\js\\glightbox.min.js",
+      "PackagePath": "staticwebassets\\lib\\glightbox\\js\\glightbox.min.js"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\imagesloaded\\imagesloaded.pkgd.min.js",
+      "PackagePath": "staticwebassets\\lib\\imagesloaded\\imagesloaded.pkgd.min.js"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\isotope-layout\\isotope.pkgd.js",
+      "PackagePath": "staticwebassets\\lib\\isotope-layout\\isotope.pkgd.js"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\isotope-layout\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\lib\\isotope-layout\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\purecounter\\purecounter_vanilla.js",
+      "PackagePath": "staticwebassets\\lib\\purecounter\\purecounter_vanilla.js"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\purecounter\\purecounter_vanilla.js.map",
+      "PackagePath": "staticwebassets\\lib\\purecounter\\purecounter_vanilla.js.map"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\swiper\\swiper-bundle.min.css",
+      "PackagePath": "staticwebassets\\lib\\swiper\\swiper-bundle.min.css"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\swiper\\swiper-bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\swiper\\swiper-bundle.min.js"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\swiper\\swiper-bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\swiper\\swiper-bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\krishna-work\\work\\arindamengineering\\wwwroot\\lib\\waypoints\\noframework.waypoints.js",
+      "PackagePath": "staticwebassets\\lib\\waypoints\\noframework.waypoints.js"
+    },
+    {
+      "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.arindamengineering.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.arindamengineering.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.build.arindamengineering.props",
+      "PackagePath": "build\\arindamengineering.props"
+    },
+    {
+      "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.arindamengineering.props",
+      "PackagePath": "buildMultiTargeting\\arindamengineering.props"
+    },
+    {
+      "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.buildTransitive.arindamengineering.props",
+      "PackagePath": "buildTransitive\\arindamengineering.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,52 @@
+/*--------------------------------------------------------------
+# Global Sections
+--------------------------------------------------------------*/
+@media (max-width: 1199px) {
+
+  section,.section {scroll-margin-top: 60px; }
+}
+@media (max-width: 991px) {
+ .hero-section h2 {font-size: 38px;}
+.slider-info-box {max-width: 350px;}
+ .mission-box {padding : 56px 70px 140px;} 
+ .second-heading h4 {font-size: 28px;}
+ .clients-about ul li {width: 25%; }
+ .certificates-left {width:45%;}
+.certificates-right {width: 55%;}
+}
+
+@media screen and (max-width: 767px) {
+
+  .section-title p { font-size: 28px; }
+  .section-title h2 { font-size: 12px; }
+  .swiper-slide-active .slider-info-box {transition-delay: 700ms;opacity: 1;margin: 0 auto;max-width: 80%;left: 0;right: 0;}
+.hero-section .hero-pagination {transform: none;top: auto;bottom: 90px;left: 0;right: 0;text-align: center;align-items: center;flex-direction: row;justify-content: center;}
+.hero-section span.swiper-pagination-bullet {margin: 0 5px !important;}
+.mouse {width: 20px;height: 32px;}.mouse:before {width: 2px;}
+.about .about-content h3 { font-size: 24px;}
+.mission-box { width: 100%; }
+.faq .faq-container .faq-item h3 { font-size: 17px;}
+.quote-container .right-banner {position: relative;left: 0;top: 0;width: 100%;height: 220px;background-size: cover;background-position: center;}
+.quote-box a { margin-top: 5px;}
+.quote-box { width: 100%; padding: 35px 0;}
+.quote-box h4 { font-size: 20px; letter-spacing: 1px; text-align: center; }
+.quote-button { text-align: center;}
+.clients-about ul li {width: 40%; } 
+.certificates-left {width:100%;}
+.certificates-right {width:100%;padding-left: 0;margin-top: 30px;}
+.iso-title h4 {font-size: 20px;}
+.certificates-left p {font-size: 16px;}
+.certificates-box-content p {font-size: 16px;}
+    
+}
+
+@media screen and (max-width: 567px) {
+
+  .section-title p { font-size: 26px; }
+  .hero-section h2 { font-size: 30px; }
+  .about .about-content h3 { font-size: 22px;}
+ .portfolio .portfolio-filters li { font-size: 14px; margin: 0 0 10px 0;  }
+    .clients-about ul li figure {min-height: 70px;} 
+.contact .info-wrap {padding: 20px; }
+.contact .contact-from {padding: 20px;  }
+}

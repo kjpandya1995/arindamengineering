@@ -1,0 +1,10 @@
+D:\krishna-work\work\arindamengineering\publish\arindamengineering.exe
+D:\krishna-work\work\arindamengineering\publish\appsettings.Development.json
+D:\krishna-work\work\arindamengineering\publish\appsettings.json
+D:\krishna-work\work\arindamengineering\publish\arindamengineering.dll
+D:\krishna-work\work\arindamengineering\publish\arindamengineering.deps.json
+D:\krishna-work\work\arindamengineering\publish\arindamengineering.runtimeconfig.json
+D:\krishna-work\work\arindamengineering\publish\arindamengineering.pdb
+D:\krishna-work\work\arindamengineering\publish\BouncyCastle.Cryptography.dll
+D:\krishna-work\work\arindamengineering\publish\MailKit.dll
+D:\krishna-work\work\arindamengineering\publish\MimeKit.dll

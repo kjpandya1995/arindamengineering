@@ -1,0 +1,483 @@
+/*--------------------------------------------------------------
+# Font & Color Variables
+# Help: https://bootstrapmade.com/color-system/
+--------------------------------------------------------------*/
+/* Fonts */
+:root {
+  --default-font: "Roboto",  system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  --heading-font: "Montserrat",  sans-serif;
+  --nav-font: "Open Sans",  sans-serif;
+}
+
+/* Global Colors - The following color variables are used throughout the website. Updating them here will change the color scheme of the entire website */
+:root { 
+  --background-color: #f3f3f3; /* Background color for the entire website, including individual sections */
+  --default-color: #636266; /* Default color used for the majority of the text content across the entire website */
+  --heading-color: #2d2c32; /* Color for headings, subheadings and title throughout the website */
+  --accent-color: #125ca7; /* Accent color that represents your brand on the website. It's used for buttons, links, and other elements that need to stand out */
+  --surface-color: #ffffff; /* The surface color is used as a background of boxed elements within sections, such as cards, icon boxes, or other elements that require a visual separation from the global background. */
+  --contrast-color: #ffffff; /* Contrast color for text, ensuring readability against backgrounds of accent, heading, or default colors. */
+}
+
+/* Nav Menu Colors - The following color variables are used specifically for the navigation menu. They are separate from the global colors to allow for more customization options */
+:root {
+  --nav-color: #222222;  /* The default color of the main navmenu links */
+  --nav-hover-color: #106eea; /* Applied to main navmenu links when they are hovered over or active */
+  --nav-mobile-background-color: #ffffff; /* Used as the background color for mobile navigation menu */
+  --nav-dropdown-background-color: #ffffff; /* Used as the background color for dropdown items that appear when hovering over primary navigation items */
+  --nav-dropdown-color: #222222; /* Used for navigation links of the dropdown items in the navigation menu. */
+  --nav-dropdown-hover-color: #106eea; /* Similar to --nav-hover-color, this color is applied to dropdown navigation links when they are hovered over. */
+}
+
+/* Color Presets - These classes override global colors when applied to any section or element, providing reuse of the sam color scheme. */
+.light-background {
+  --background-color: #2d2c32;
+  --surface-color: #f3f3f3;
+}
+
+.dark-background {
+  --background-color: #060606;
+  --default-color: #ffffff;
+  --heading-color: #ffffff;
+  --surface-color: #252525;
+  --contrast-color: #ffffff;
+}
+
+/* Smooth scroll */
+:root {
+  scroll-behavior: smooth;
+}
+
+.button {
+  display: inline-block;
+    font-size: 14px;
+    line-height: 20px;
+    color: #125ca7;
+    border: 2px solid #125ca7;
+    text-transform: uppercase;
+    font-weight: 700;
+    padding: 8px 18px;
+    margin-left: 22px;
+    text-decoration: none;
+    border-radius: 0;
+}
+
+/*--------------------------------------------------------------
+# General Styling & Shared Classes
+--------------------------------------------------------------*/
+body {
+  color: var(--default-color);
+  background-color: var(--background-color);
+  font-family: var(--default-font);
+}
+p {color: #242424;}
+a {
+  color: var(--accent-color);
+  text-decoration: none;
+  transition: 0.3s;
+}
+
+a:hover {
+  color: color-mix(in srgb, var(--accent-color), transparent 25%);
+  text-decoration: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: var(--heading-color);
+  font-family: var(--heading-font);
+}
+img {
+  width: 100%;
+}
+
+/*--------------------------------------------------------------
+# Global Header
+--------------------------------------------------------------*/
+.header {
+  color: var(--default-color);
+  transition: all 0.5s;
+  z-index: 997;
+  position: absolute;
+  left: 0;
+  right: 0;
+}
+
+.header.sticky .navbar {
+    background: #222127;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+/*--------------------------------------------------------------
+# Navigation Menu
+--------------------------------------------------------------*/
+/* Navmenu - Desktop */
+
+
+  .navbar {
+    background:rgba(0,0,0,0.7); 
+  }
+
+  .navbar-nav .nav-link {
+  position: relative;
+  color: #fff; /* You can change based on theme */
+  font-weight: 500;
+  text-transform: capitalize;
+  padding: 10px 15px;
+  transition: color 0.3s ease;
+  overflow: hidden;
+    }
+
+.navbar-nav .nav-link::after {
+  content: '';
+  position: absolute;
+  left: 50%;
+  bottom: 0;
+  width: 0%;
+  height: 3px;
+  background: linear-gradient(135deg, #125ca7, #5f72bd); /* Accent color */
+  transition: all 0.3s ease;
+  transform: translateX(-50%);
+}
+
+.navbar-nav .nav-link:hover span,.navbar-nav .nav-link.active span{
+   background: linear-gradient(135deg, #125ca7, #5f72bd);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  color: transparent;
+}
+
+.navbar-nav .nav-link:hover::after, .navbar-nav .nav-link.active::after {
+  width: 100%;
+}
+
+
+#navbarNav{
+  justify-content: flex-end;
+}
+.navbar-brand img {
+        max-width: 70px;
+    }
+.navbar .navbar-nav .nav-link {
+  color: #a7a5a6;
+  font-size: 16px;
+  padding: 24px 20px;
+}
+.navbar-toggler:focus { box-shadow: none;}
+
+/*--------------------------------------------------------------
+# Global Footer
+--------------------------------------------------------------*/
+
+#footer {
+  background:#2d2c32 ;
+}
+.footer-logo a {
+    display: inline-block;
+}
+.footer-logo a img {
+  width: 70px;
+}
+.contact-us-container {
+    background: #222127;
+}
+.contact-us-container .box {
+    /* float: left;
+    width: 30%;
+    border-right: 1px solid #28272d; */
+    padding: 40px 0px 40px 8px;
+    font-size: 16px;
+    line-height: 24px;
+    color: #828282;
+    border-right: 1px solid #28272d;
+}
+.contact-us-container .box em {
+    float: left;
+    font-size: 40px;
+    vertical-align: top;
+    margin-right: 20px;
+}
+.contact-us-container .box ul {
+    margin: 0;
+    padding: 0;
+}
+.location-svg svg {
+    fill: #828282;
+}
+
+.contact-us-container .box span {
+    display: block;
+}
+.contact-us-container .box span a {
+    color: #828282;
+}
+.contact-us-container .box li {
+    display: inline-block;
+    padding: 0 15px;
+}
+.contact-us-container .box li a i {
+    display: inline-block;
+    font-size: 20px;
+    color: #828282;
+    transition: all 0.4s;
+}
+.contact-us-container .box li a:hover i {
+  color:var(--accent-color);
+}
+ .box-address,.box-contact {
+    display: flex;
+}
+.box-address i {
+  font-size: 26px;
+}
+.box-address address {
+  margin-left: 12px;
+  margin-bottom: 0;
+  font-size: 15px;
+}
+.box-contact {
+  margin-bottom: 10px;
+}
+.box-contact:last-child {
+  margin-bottom: 0;
+}
+.box-contact a {
+    margin-left: 12px;
+    color: #828282;
+    transition: all 0.4s;
+    font-size: 15px;}
+.box-contact a:hover {
+  color:#125ca7;
+}
+.box-contact i {
+    font-size: 18px;
+}
+.contact-us-container .contact-us {
+    float: right;
+    width: 149px;
+    border: 2px solid #828282;
+    color: #828282;
+    text-align: center;
+    font-size: 14px;
+    line-height: 20px;
+    font-weight: 700;
+    padding: 12px;
+    letter-spacing: 1px;
+}
+.contact-us-container .contact-us:hover{
+  background: #125ca7;
+    border: 2px solid #125ca7;
+    color: #fff;
+}
+.primary-footer {
+    padding-top: 25px;
+}
+.primary-footer .list {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+}
+.primary-footer .list li {
+    width: 14%;
+    margin-bottom: 17px;
+    text-align: center;
+}
+.primary-footer .list li a {
+    display: inline-block;
+    font-size: 15px;
+    line-height: 24px;
+    color: #767381;
+    transition: all 0.4s;
+
+}
+.primary-footer .list li a:hover {
+  color:#125ca7;
+}
+#footer .copyright {
+    font-size: 15px;
+    color: #51505a;
+    display: inline-block;
+    border-top: 1px solid #363539;
+    margin-top: 0px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    text-align: center;
+}
+
+
+
+
+
+
+
+@media screen and (min-width: 992px) {
+
+  .navbar { padding: 0; }
+}
+
+@media screen and (max-width: 991px) {
+    
+.navbar-nav { padding-top: 0.5em; }
+.box-address, .box-contact { display: flex; flex-direction: column; text-align: center; }
+.contact-us-container { padding: 40px 0;}
+.contact-us-container .box { border-right: 0; flex-wrap: wrap; align-items: center; justify-content: center; padding: 0; text-align: center;}
+.box-address address,.box-contact a {margin-left: 0;}
+.footer-logo.box a {margin-bottom: 30px;}
+.contact-us-container .row { align-items: center;}
+}
+
+
+@media screen and (max-width: 767px) {
+
+.navbar { background: #000; }
+.contact-us-container .box { margin-bottom: 17px;}
+.box-address { max-width: 340px; margin: 0 auto;}
+.box-address i { margin-bottom: 5px;}
+}
+@media screen and (max-width: 567px) {
+.primary-footer .list { flex-direction: column;}
+.primary-footer .list li { width: 100%;}
+}
+/*--------------------------------------------------------------
+# Preloader
+--------------------------------------------------------------*/
+
+ #preloader {
+  position: fixed;
+  inset: 0;
+  z-index: 9999;
+  background-color: #fff;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+#preloader span {
+  position: relative;
+  
+  font-size: 2rem;
+  font-weight: bold;
+  animation: popText 1s infinite ease-in-out;
+    background: linear-gradient(20deg, #125ca7, #5f72bd);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  color: transparent;
+}
+
+#preloader span:before {
+  content: '';
+  position: absolute;
+  bottom: -10px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 8px;
+  height: 8px;
+  background-color:rgb(167 165 166);
+  border-radius: 50%;
+  animation: bounce 1s infinite ease-in-out;
+}
+
+#preloader span:nth-child(1):before { animation-delay: 0s; }
+#preloader span:nth-child(2):before { animation-delay: 0.1s; }
+#preloader span:nth-child(3):before { animation-delay: 0.2s; }
+#preloader span:nth-child(4):before { animation-delay: 0.3s; }
+#preloader span:nth-child(5):before { animation-delay: 0.4s; }
+#preloader span:nth-child(6):before { animation-delay: 0.5s; }
+#preloader span:nth-child(7):before { animation-delay: 0.6s; }
+
+@keyframes bounce {
+  0%, 100% {
+    transform: translateX(-50%) translateY(0);
+    opacity: 0.3;
+  }
+  50% {
+    transform: translateX(-50%) translateY(-10px);
+    opacity: 1;
+  }
+}
+
+@keyframes popText {
+  0%, 100% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.1);
+  }
+} 
+
+/*--------------------------------------------------------------
+# Scroll Top Button
+--------------------------------------------------------------*/
+.scroll-top {
+  position: fixed;
+  visibility: hidden;
+  opacity: 0;
+  right: 15px;
+  bottom: 15px;
+  z-index: 99999;
+  background-color: var(--accent-color);
+  width: 40px;
+  height: 40px;
+  border-radius: 4px;
+  transition: all 0.4s;
+}
+
+.scroll-top i {
+  font-size: 24px;
+  color: var(--contrast-color);
+  line-height: 0;
+}
+
+.scroll-top:hover {
+  background-color: color-mix(in srgb, var(--accent-color), transparent 20%);
+  color: var(--contrast-color);
+}
+
+.scroll-top.active {
+  visibility: visible;
+  opacity: 1;
+}
+
+/*--------------------------------------------------------------
+# Disable aos animation delay on mobile devices
+--------------------------------------------------------------*/
+@media screen and (max-width: 768px) {
+  [data-aos-delay] {
+    transition-delay: 0 !important;
+  }
+}
+
+
+/*--------------------------------------------------------------
+# Global Sections
+--------------------------------------------------------------*/
+section,
+.section {
+  color: var(--default-color);
+  background-color: var(--background-color);
+  padding: 60px 0;
+  scroll-margin-top: 78px;
+  overflow: clip;
+}
+
+@media (max-width: 1199px) {
+  section,
+  .section {
+    scroll-margin-top: 60px;
+  }
+}
+
